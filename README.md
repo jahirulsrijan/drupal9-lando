@@ -16,3 +16,11 @@ run command:
     lando composer install
     lando drush cim -y
 
+you should beable to access drupal at 
+  https://my-first-drupal9-app.lndo.site/
+  
+  #Admin creds
+  
+  usernam: jahir
+  password: islam
+  
