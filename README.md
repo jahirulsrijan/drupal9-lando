@@ -11,8 +11,8 @@ docker and lando needs to be installed in your machine
 clone the repository
 
 run command: 
+
     lando start
-    
     lando composer install
     lando drush cim -y
 
