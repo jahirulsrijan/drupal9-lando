@@ -1,0 +1,14 @@
+uuid: 59f51ab7-e1da-49c3-9ac5-f3c97b7425ec
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - jahirulamiete@gmail.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
